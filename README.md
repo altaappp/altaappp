@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **altafabadi@gmail.com**
 
-- ⚡ Fun fact **i like kpop**
+- ⚡ Fun fact **earth is round and is dying**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

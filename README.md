@@ -1,8 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6d943948002457.588b5a1e0a124.gif)
 <h1 align="center">Hi 👋, I'm Altaf</h1>
 <h3 align="center">living my best life</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWB9MQaMVKMAAAAC/cat-type.gif">
 - 🔭 I’m currently working on [Final assignment on Data Structure](https://github.com/altaappp/tubestd)
 
 - 🌱 I’m currently learning **computing**

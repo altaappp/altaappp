@@ -1,9 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Altaf</h1>
-<h3 align="center">A student who wants to be a game developer</h3>
-<img allign="left" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">living my best life</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [data structure final assignment](https://github.com/altaappp/tubestd)
+- 🔭 I’m currently working on [Final assignment on Data Structure](https://github.com/altaappp/tubestd)
 
 - 📫 How to reach me **altafabadi@gmail.com**
 

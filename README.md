@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QWB9MQaMVKMAAAAC/cat-type.gif">
 - 🔭 I’m currently working on [Final assignment on Data Structure](https://github.com/altaappp/tubestd)
 
-- 🌱 I’m currently learning **computing**
+- 🌱 I’m currently learning **computer science**
 
 - 💬 Ask me about **anything**
 
